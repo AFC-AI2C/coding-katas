@@ -68,7 +68,7 @@ def function_three(num_one: int, num_two: int) -> int:
 ```
 
 **Step 4.**
-Pre-commit hooks allow us to validate that our code will pass specific tests prior to committing our changes into the repository.  This helps keep our commit history clean and avoids the commit messages like "fixes linter errors" or "code quality fixes".  Create a new file called `.pre-commit-config.yaml` that has the content below.  This file will dictate how which pre-commit hooks are run.
+Pre-commit hooks allow us to validate that our code will pass specific tests prior to committing our changes into the repository.  This helps keep our commit history clean and avoids the commit messages like "fixes linter errors" or "code quality fixes".  Create a new file called `.pre-commit-config.yaml` that has the content below.  This file will dictate which pre-commit hooks are run.
 
 ```yaml
 repos:
