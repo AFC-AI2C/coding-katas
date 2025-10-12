@@ -1,6 +1,4 @@
-# Coding Kata 02
-
-## Overview
+## Coding Kata 02
 The purpose of this coding kata is to develop proficiency in the tasks listed below. It assumes you have `git`, `python`, `docker`, and a code editor installed. 
 
 ## Covered Topics
